@@ -1,4 +1,4 @@
-Given four files TodoController.java, TodoRepository.java, TodoService.java and  Todo.java.
+TodoController.java, TodoRepository.java, TodoService.java and  Todo.java.
 The TodoService class has a variable named todoList, which is a HashMap that holds Integers as keys and Todo objects as values. Initially, it contains data of 5 todos.
 
 Given five files,
